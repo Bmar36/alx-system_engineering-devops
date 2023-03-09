@@ -1,2 +1,2 @@
 #!/bin/bash
-ln-s /bin/is is
+cp -ru ./*.html ..
